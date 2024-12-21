@@ -1,0 +1,1588 @@
+body {
+    box-sizing: border-box;
+}
+
+
+.section-padding {
+    padding-block: 70px !important;
+}
+
+.section-heading {
+    margin: 0;
+    color: #21047C;
+    font-size: 35px;
+    font-family: Poppins;
+    font-weight: 700;
+}
+
+
+
+/* navbar section // Section1  /////////// */
+
+.header-with-section {
+    /* position: absolute; */
+    background-image: url(./images/wave-img.png);
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 935px;
+    left: 0;
+}
+
+.navbar .navbar-brand .hikma-logo {
+    height: 56px;
+    width: 250px;
+    /* position: absolute; */
+    left: 48px;
+}
+
+.nav-item {
+    text-decoration: none;
+    font-size: 20px;
+    text-align: center;
+    font-family: Poppins;
+    font-weight: 600;
+}
+
+.navbar {
+    margin-right: 12px;
+}
+
+.nav-link-active {
+    color: red;
+}
+
+
+.navbar-toggler-icon {
+    font-size: 12px;
+    border: none;
+}
+
+.nav-link {
+    font-size: 14px;
+}
+
+
+
+
+/* .world-class-education section */
+
+/* .world-class-education .container .world-class-content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 155px 0px 0px;
+} */
+
+
+.world-class-education {
+    padding: 200px 50px;
+    padding-bottom: 50px;
+}
+
+.world-class-education .container .world-class-content p {
+    margin: 25px 0;
+    font-family: Poppins;
+    font-weight: 400;
+    font-size: 21px;
+    color: black;
+    /* width: 675px; */
+}
+
+.margin-right-50 {
+    margin-right: 50px;
+
+}
+
+.world-class-education .container .world-class-content .section1-btn {
+    background-color: #21047C;
+    height: 50px;
+    min-width: 190px;
+    border-radius: 5px;
+    font-size: 18px;
+    font-family: Poppins;
+    font-weight: 400;
+    border: none;
+}
+
+
+/* .world-class-content .image-section{
+    display: flex;
+    justify-content: center;
+    align-items: c;
+} */
+
+.world-class-education .container .world-class-content .section1-btn a {
+    color: white;
+    text-decoration: none;
+    font-family: Poppins;
+}
+
+.row {
+    display: flex;
+    flex-direction: row;
+
+}
+
+.d-flex {
+    display: flex !important;
+
+}
+
+.header-section-content .container .header-world-image {
+    width: 400px;
+}
+
+.image-section {
+    max-width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.world-class-education .image-section .world-book-img {
+    width: 400px;
+    /* margin-top: 123px; */
+    margin: 0;
+    object-fit: contain;
+}
+
+/* what is gethikma section */
+
+.gethikma {
+    margin-top: 400px;
+    display: flex;
+    flex-direction: column;
+}
+
+
+.Section2-right-side-image .squre {
+    width: 472px;
+    height: 434px;
+    border-radius: 40px;
+    background-color: rgba(32, 187, 45, 0.10);
+    position: relative;
+    margin-top: 341px;
+}
+
+.circle-div{
+    position: absolute;
+}
+
+
+.male-img {
+    bottom: 0;
+    left: -149px;
+    height: 300px;
+    width: 450px;
+    position: absolute;
+    z-index: 1;
+}
+
+.female-img {
+    position: absolute;
+    height: 300px;
+    width: 260px;
+    right: -7px;
+    bottom: 0;
+}
+
+
+.hikma-title {
+    /* width: 40px; */
+    height: 40px;
+}
+
+
+.text-section {
+    display: flex;
+    margin-top: 83%;
+    gap: 11px;
+    position: relative;
+}
+
+.hikma-logo {
+    height: 50px;
+    width: 170px;
+}
+
+.square-circle{
+    width: 60px;
+    height: 60px;
+    top: 49px;
+    position: relative;
+    left: -14px;
+}
+
+
+.section-title {
+    font-family: Poppins;
+    /* font-weigteacher-circle-imght: 600; */
+    font-size: 35px;
+    color: #21047C;
+    text-align: center;
+    font-weight: 700;
+}
+
+.section2 {
+    position: relative;
+}
+
+.hikma-circle {
+    height: 300px;
+    width: 190px;
+    position: absolute;
+    right: -500px;
+    object-fit: contain;
+    top: -595px;
+
+
+
+
+
+
+    /* height: 291px;
+    width: 189px;
+    position: absolute;
+    /* right: 172px; */
+    /* top: -585px; */
+    /* object-fit: contain; */
+    /* left: 0; */ 
+}
+
+
+.text-subtitle {
+    font-family: Poppins;
+    font-size: 16px;
+    /* width: 479px; */
+    text-align: left;
+    /* width: 361px; */
+    padding-top: 18px;
+}
+
+.download-button {
+    font-family: Poppins;
+    font-weight: 400;
+    text-decoration: none;
+    /* margin-left: -17px; */
+}
+
+.world-content {
+    position: relative;
+    /* left: 182px; */
+    /* top: -24px; */
+    margin-top: 600px;
+}
+
+.gethikma-info {
+    display: flex;
+    margin-top: 50px;
+    justify-content: center;
+    align-items: center;
+    gap: 12px;
+}
+
+/* .gethikma-info h1 {
+    font-family: Poppins;
+    margin-top: 10px;
+    font-size: 25px;
+    color: #21047c;
+    font-weight: 600;
+    margin-left: -58px;
+} */
+
+.hikma-title {
+    height: 39px;
+}
+
+.gethikma-subtitle {
+    font-family: Poppins;
+    font-size: 16px;
+    padding-top: 10px;
+    text-align: left;
+}
+
+
+
+.box-heading {
+    font-family: Poppins;
+    color: #21047C;
+    font-size: 35px;
+    font-weight: 700;
+}
+
+
+/* Our- Misson section Section 3 */
+
+
+
+.mission-section {
+    width: 100%;
+    /* padding: 95px; */
+    background-image: url(images//our-misssion\ bg.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 280px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+
+
+.mission-text {
+    text-align: center;
+    font-size: 20px;
+    color: #333;
+    font-family: Poppins;
+    display: flex;
+    justify-content: center;
+    font-weight: 400;
+}
+
+.mission-title {
+    font-family: Poppins;
+    font-weight: 700;
+    display: flex;
+    justify-content: center;
+    color: #21047C;
+    font-size: 35px;
+    margin: 25px;
+}
+
+/* Gethikma mobile student app  section //////////////////////////////// */
+
+.image-div {
+    display: flex;
+    justify-content: center;
+}
+
+.apple-store-img {
+    margin: 20px 0;
+    height: 60px;
+    width: 200px;
+}
+
+.google-button-img {
+    margin: 20px 0;
+    height: 60px;
+    width: 200px;
+}
+
+.Start-learning-subtitle {
+    margin: 25px 0 0 0;
+    font-family: Poppins;
+
+}
+
+.download-logos {
+    display: flex;
+    gap: 10px;
+}
+
+.list-icon-content {
+    margin: 20px 0px;
+    display: flex;
+    gap: 15px;
+    flex-direction: row;
+    align-items: center;
+    justify-content: start;
+
+}
+
+/* .icon-list {
+    padding: 17px 0;
+    display: flex;
+    gap: 21px;
+    padding: 16px 0;
+    list-style: none;
+} */
+
+
+.mobile-img {
+    width: 363px;
+    margin: 50px 0;
+}
+
+/* .icon-info {} */
+
+.hero-heading {
+    font-family: Poppins;
+    font-size: 33px;
+    color: #21047C;
+    font-weight: 700;
+}
+
+
+
+
+.discover-info {
+    font-size: 16px;
+    font-family: Poppins;
+    margin: 25px 0 0 0;
+}
+
+.mobile-circle {
+    width: 62px;
+    position: absolute;
+    margin-top: -14px;
+    margin-left: -17px;
+}
+
+
+
+
+.light-blue-icon {
+    display: flex;
+    align-items: center;
+    font-size: 29px;
+    color: lightblue;
+}
+
+/* .gethikma-p {
+    margin: 0;
+    padding: 0;
+} */
+
+.text-content {
+    font-family: Poppins;
+    font-size: 16px;
+    margin: 10px 19px;
+}
+
+.tick-icon {
+    color: deepskyblue;
+}
+
+.pink-tick-icon {
+    color: deeppink;
+
+}
+
+.dark-blue-tick-icon {
+    display: flex;
+    color: darkblue;
+}
+
+
+
+/* teacher app section  ///////////////////////////////////////////////// */
+
+
+.teacher-section {
+    display: flex;
+    justify-content: center;
+}
+
+.teacher-heading {
+    font-family: Poppins;
+    font-weight: 700;
+    color: #21047C;
+    /* padding-top: 103px; */
+    /* margin: 22px -1px; */
+    font-size: 33px;
+    /* width: 348px; */
+}
+
+.logo-img {
+    width: 165px;
+}
+
+.teacher-app-img {
+    max-width: 380px;
+}
+
+.circle-img4 {
+    position: absolute;
+    width: 70px;
+    left: 2px;
+    top: 134px;
+}
+
+.purpale-img1 {
+    position: relative;
+    width: 70px;
+    left: 0;
+    top: 192px;
+    height: 70px;
+    border-radius: 50%;
+    z-index: 1;
+}
+
+.features-link {
+    text-decoration: none;
+}
+
+.purpale-img2 {
+    position: absolute;
+    width: 65px;
+    padding-top: 54px;
+    left: 113px;
+}
+
+.schedule-img2 {
+    position: absolute;
+    width: 61px;
+    left: 49px;
+    padding-top: 145px;
+}
+
+
+.teacher-img {
+    position: absolute;
+    width: 59px;
+    left: 61px;
+}
+
+.teacher-text {
+    font-size: 16px;
+    font-family: 'Poppins';
+}
+
+.teacher-app-content{
+    margin-top: 45px;
+}
+
+
+/* // Schedule  counselling section*/
+
+.schedule-box {
+    width: 230px;
+    height: 150px;
+    background-color: rgba(69, 175, 223, 0.10);
+    border-radius: 10px;
+    position: relative;
+    margin-top: 10px;
+    transition: 0.3s;
+    display: flex;
+    align-items: flex-end;
+}
+
+
+.schedule-content {
+    position: relative;
+}
+
+
+.section {
+    padding-block: 70px;
+    /* padding: 100px 0; */
+}
+
+.schedule-img {
+    position: absolute;
+    width: 61px;
+    left: -15px;
+    top: -14px;
+}
+
+
+.box-parent {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.schedule-heading {
+    font-family: Poppins;
+    font-weight: 700;
+    color: #21047C;
+    /* padding-top: 132px; */
+    font-size: 31px;
+    /* width: 348px; */
+}
+
+.text-title {
+    font-size: 15px;
+    font-family: 'Poppins';
+    font-weight: 400;
+    /* width: 615px; */
+    margin-top: 15px;
+}
+
+.box-img {
+    width: 100px;
+    height: 80px;
+    position: absolute;
+    right: 20px;
+    top: 23px;
+}
+
+.schedule-box h3 {
+    font-size: 14px;
+    padding: 20px;
+    align-items: revert-layer;
+    display: flex;
+    margin-top: 60px;
+    font-family: Poppins;
+    font-weight: 600;
+}
+
+.schedule-box h6 {
+    font-size: 14px;
+    padding: 20px;
+    align-items: revert-layer;
+    display: flex;
+    /* margin-top: 60px; */
+    font-family: Poppins;
+    font-weight: 600;
+}
+
+.schedule-box-img {
+    width: 100px;
+    position: absolute;
+    right: 20px;
+    top: 40px;
+    height: 80px;
+}
+
+.parent-box1-2 {
+    display: flex;
+    justify-content: space-evenly;
+    gap: 16px;
+    /* flex-wrap: wrap; */
+    width: 100%;
+}
+
+/* //////////////////////////////// */
+
+
+/* Meeting-sectiom */
+
+.section .meeting-subtitle {
+    font-family: Poppins;
+    font-size: 16px;
+    margin: 15px 0 0;
+}
+
+.section .meeting-title {
+    font-family: Poppins;
+    font-size: 31px;
+    margin: 0;
+    font-weight: 700;
+    color: #21047C;
+}
+
+
+.meeting .box3 h6 {
+    padding-top: 86px;
+    margin-left: 20px;
+    font-family: Poppins;
+    font-weight: 600;
+}
+
+
+
+.box {
+    display: flex;
+    gap: 9px;
+}
+
+
+
+.box1 h6 {
+    font-family: Poppins;
+    font-weight: 500;
+}
+
+
+
+.value-box {
+    margin-top: 0;
+}
+
+
+.meeting-box1 {
+    background-color: rgba(235, 156, 84, 0.10);
+    height: 150px;
+    width: 230px;
+    border-radius: 10px;
+    display: flex;
+    position: relative;
+    transition: 0.3s;
+    /* right: 125; */
+}
+
+
+.meeting-box1 img {
+    position: absolute;
+    right: 20px;
+    top: 40px;
+    height: 80px;
+    width: 100px;
+}
+
+.meeting-box1 h6 {
+    font-family: Poppins;
+    padding: 20px;
+    align-items: end;
+    display: flex;
+    font-weight: 600;
+}
+
+
+.meeting-box2 {
+    background-color: rgba(248, 87, 106, 0.10);
+    height: 150px;
+    width: 230px;
+    border-radius: 10px;
+    display: flex;
+    margin-top: 100px;
+    position: relative;
+    transition: 0.3s;
+    /* top: 115px; */
+}
+
+
+.meeting-box2 img {
+    position: absolute;
+    right: 20px;
+    top: 40px;
+    height: 80px;
+    width: 100px;
+}
+
+
+.meeting-box2 h6 {
+    font-family: Poppins;
+    padding: 20px;
+    align-items: end;
+    display: flex;
+    font-weight: 600;
+}
+
+.meeting-info h1 {
+    font-size: 34px;
+    color: #21047c;
+    font-weight: 700;
+    font-family: 'Poppins';
+}
+
+.meeting-info p {
+    font-size: 16px;
+    font-family: 'Poppins';
+    margin: 12px 0;
+}
+
+.section .meeting-section {
+    padding: 100px 0;
+}
+
+
+.subtitle {
+    font-size: 17px;
+    /* width: 521px;  */
+    padding-top: 10px;
+    font-family: Poppins;
+}
+
+.meeting-circle {
+    width: 54px;
+    position: absolute;
+    /* top: 51px; */
+    /* left: 702px; */
+    padding-top: 50px
+}
+
+
+.heading-title {
+    font-family: Poppins;
+    font-weight: 600;
+    color: #21047C;
+    position: relative;
+    top: 400px;
+    left: -300px;
+
+}
+
+.sub-heading {
+    position: relative;
+    top: 183px;
+    left: -588px;
+    font-size: 17px;
+    color: #21047c;
+    font-weight: 600;
+}
+
+
+/* acadmeic journey */
+
+.academic-title {
+    font-size: 35px;
+    /* margin-top: 100px; */
+    color: #21047c;
+    /* width: 323px; */
+    font-family: 'Poppins';
+    font-weight: 700;
+}
+
+.academic-subtitle {
+    /* width: 500px; */
+    font-size: 17px;
+    padding-top: 13px;
+
+}
+
+.section-info {
+    position: relative;
+}
+
+.academic-boxes {
+    width: 100%;
+    display: flex;
+    gap: 9px;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.parent.box3-4 {
+    display: flex;
+    justify-content: center;
+    gap: 9px;
+}
+
+.circle-img7 {
+    width: 70px;
+    height: 70px;
+    position: relative;
+    z-index: 1;
+    top: 46px;
+    left: -20px;
+}
+
+
+
+
+
+
+/* Gethikma valus section */
+
+
+
+.values-section h1 {
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+
+.values-section p.subtitle {
+    font-size: 1.2rem;
+    color: gray;
+}
+
+.value-card {
+    border-radius: 10px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+    /* padding: 30px; */
+    /* text-align: center; */
+}
+
+.value-card img {
+    width: 60px;
+    height: 60px;
+}
+
+.value-card h5 {
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+.values-content {
+    font-family: Poppins;
+}
+
+
+.values-section {
+    text-align: center;
+    padding: 50px 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.values-section h1 {
+    font-size: 30px;
+    font-family: Poppins;
+    color: #21047c;
+}
+
+.values-section p.subtitle {
+    font-size: 11px;
+    text-align: center;
+}
+
+.value-box {
+    display: flex;
+    flex-wrap: wrap;
+    /* margin: 10px; */
+    justify-content: center;
+}
+
+
+
+
+
+
+
+
+
+.value-box1 {
+    border-radius: 15px;
+    box-shadow: 3px 2px 6px 0px rgba(0 0 0 / 10%);
+    padding: 25px 30px;
+    margin: 10px 15px;
+    display: flex;
+    flex-direction: column;
+    margin-top: 50px;
+}
+
+.value-box1 p {
+    text-align: left;
+    font-family: Poppins;
+    font-size: 13px;
+}
+
+.value-box1 h3 {
+    text-align: left;
+    margin-top: 21px;
+    font-family: Poppins;
+    font-size: 20px;
+    font-weight: 600;
+
+}
+
+.value-box1 img {
+    width: 68px;
+    height: 60px;
+    padding: 7px;
+}
+
+.value-box1 h5 {
+    font-weight: bold;
+    margin-top: 20px;
+    text-align: left;
+}
+
+.blue {
+    display: flex;
+    background-color: #21047C;
+    width: 87px;
+    height: 74px;
+    justify-content: center;
+    align-items: center;
+    border-radius: 11px;
+}
+
+.light-blue {
+    display: flex;
+    background-color: lightblue;
+    width: 90px;
+    height: 80px;
+    justify-content: center;
+    align-items: center;
+    border-radius: 11px;
+}
+
+.pink {
+    display: flex;
+    background-color: #FF0074;
+    width: 90px;
+    height: 80px;
+    justify-content: center;
+    align-items: center;
+    border-radius: 12px;
+    /* margin: 20px; */
+}
+
+.pink img {
+    width: 50px;
+    height: 50px;
+
+}
+
+.hikma-text-logo {
+    width: 155px;
+
+}
+
+.value-info {
+    display: flex;
+    justify-content: center;
+}
+
+.schedule-classes {
+    padding-block: 100px;
+}
+
+.meetingSection {
+    display: flex;
+}
+
+.sign-up-section {
+    padding-block: 100px;
+}
+
+.content-section {
+    display: flex;
+    align-items: center;
+}
+
+.sign-up-subtitle {
+    font-family: 'Poppins';
+    font-size: 14px;
+    margin: 18px 0;
+    font-weight: 400;
+}
+
+/* Available 247 section  */
+
+.form-img-content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 100%;
+    padding-block: 100px;
+
+}
+
+.form-heading {
+    display: flex;
+    margin-top: 62px;
+    /* justify-content: center; */
+    align-items: center;
+    color: #21047C;
+    font-family: Poppins;
+    font-weight: 700;
+    font-size: 31px;
+    margin-left: 10px;
+}
+
+.form-subtitle {
+    font-family: 'Poppins';
+    font-size: 14px;
+    margin-top: 15px;
+    margin-left: 8px;
+}
+
+.form-img {
+    position: relative;
+    right: 40px;
+    width: 55px;
+}
+
+.form-message-img {
+    width: 100%;
+}
+
+
+
+.form-control {
+    background-color: #F7FAFE;
+
+}
+
+
+label {
+    display: inline-block;
+    width: 100%;
+}
+
+textarea {
+    background-color: #F7FAFE;
+    padding: 10px;
+    height: 210px;
+}
+
+.textarea::placeholder {
+    padding: 10px 20px;
+}
+
+.form-control {
+    background-color: #F7FAFE;
+    border: var(--bs-border-width) solid var(--bs-border-color);
+}
+
+.button-last {
+    width: 193px;
+    height: 53px;
+    background-color: #21047c;
+    border-radius: 4px;
+    border: none;
+    color: #ffff;
+    margin-left: 9px;
+    border-radius: 9px;
+    margin-top: 18px;
+
+}
+
+.button-last a {
+    color: #ffff;
+    text-decoration: none;
+    font-size: 18px;
+    font-family: Poppins;
+    font-weight: 400;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+/* sign up updates section */
+
+.sign-up-heading {
+    /* margin-top: 52px; */
+    color: #21047C;
+    font-family: Poppins;
+    font-weight: 700;
+    /* margin-top: 18px; */
+    font-size: 35px;
+}
+
+.section-content {
+    display: flex;
+    justify-content: center;
+    align-items: start;
+    /* text-align: start; */
+    flex-direction: column;
+}
+
+.sign-up-subtitle {
+    font-family: Poppins;
+    font-size: 16px;
+    margin: 25px 0;
+}
+
+.start-circle {
+    position: relative;
+    width: 70px;
+    height: 70px;
+    left: -25px;
+    top: 49px;
+    z-index: 1;
+}
+
+
+
+
+.news-img {
+    width: 100%;
+    object-fit: contain;
+
+}
+
+button.btn.btn.btn-primary.email-button {
+    background-color: #21047c;
+    border: none;
+    border-radius: 3px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    left: 322px;
+    border-radius: 2px;
+    margin-top: -45px;
+    right: 0;
+    width: 62px;
+    height: 45px;
+
+}
+
+
+.telegram-img {
+    height: 20px;
+}
+
+.form-control .email-input {
+    width: 314px;
+    border-radius: 4px;
+    padding: 10px;
+    border: var(--bs-border-width) solid var(--bs-border-color);
+}
+
+.form-group .input {
+    background-color: #F7FAFE;
+}
+
+.Email .form-control {
+    padding: 13px;
+    max-width: 274px;
+    min-height: 52px;
+    border-color: #21047c;
+}
+
+.input-btn {
+    width: 80px;
+    /* border: none; */
+    background-color: #21047c;
+    border: none;
+    border-radius: 5px;
+}
+
+/* Sub footer section */
+
+.sub_footer {
+    flex-wrap: wrap;
+    background-color: white;
+    padding: 40px 60px;
+    display: flex;
+
+}
+
+.sub_footer .links {
+    padding: 0 17px;
+    margin: 0;
+}
+
+.social-links h3{
+    font-family: Poppins;
+    font-weight: 700;
+    color: #21047c;
+    font-size: 18px;
+}
+
+.sub_footer .sub_footer-column {
+    min-width: 24%;
+    color: white;
+    font-family: Poppins;
+}
+
+.sub_footer .sub_footer-column:first-child {
+    margin-left: 0px;
+}
+
+.sub_footer .sub_footer-column:last-child {
+    margin-right: 0px;
+}
+
+.sub_footer .sub_footer-column .sub_footer-column-heading {
+    font-family: Montserrat;
+    font-weight: 600;
+
+}
+
+.sub_footer .sub_footer-column .sub_footer-column-list {
+    font-family: Poppins;
+    font-weight: 600;
+    color: white;
+}
+
+.logo-title {
+    font-size: 14px;
+    /* width: 278px; */
+    margin-top: 16px;
+}
+
+.footer-img {
+    width: 261px;
+}
+
+.list-heading {
+    font-family: Poppins;
+    font-weight: 600;
+    color: #21047C;
+    font-size: 18px;
+}
+
+.sub-footer .sub-footer-column {
+    min-width: 24%;
+    color: black;
+    font-family: Poppins;
+}
+
+.sub-footer .links ul {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+
+.list-items {
+    text-decoration: none;
+    color: black;
+    line-height: 36px;
+    font-family: Poppins;
+    width: 30px;
+}
+
+.footer {
+    margin-top: 20px;
+    font-family: Montserrat;
+    font-weight: 500;
+    padding: 6px 0px 0px 63px;
+}
+
+
+.links h3 {
+    color: #21047C;
+    font-weight: 700;
+    font-family: Poppins;
+    font-size: 18px;
+}
+
+.list-img {
+    width: 30px;
+    margin: 9px;
+}
+
+.links a {
+    color: black;
+    text-decoration: none;
+}
+
+.list-policy {
+    margin-bottom: 13px;
+    font-family: Poppins;
+    font-size: 14px;
+}
+
+.HR-heading {
+    margin: 5px;
+    margin-left: 54px;
+    color: black;
+    font-family: 'Poppins';
+}
+
+hr#new1 {
+    margin-bottom: 7px;
+    border-top: 1px solid black;
+    opacity: 1;
+}
+
+.footer-line {
+    width: 100%;
+    position: absolute;
+    left: 0;
+}
+
+.footer-text {
+    font-size: 14px;
+    font-family: Poppins;
+    font-weight: 400;
+    text-align: center;
+}
+
+.circle {
+    max-width: 32px;
+    height: 32px;
+    background-color: #21047c;
+    border-radius: 50%;
+    margin: 11px;
+    text-align: center;
+}
+
+.links-icon {
+    /* text-align: center; */
+    /* margin-top: 12px; */
+    /* margin: 7px; */
+    color: #ffff;
+    padding: 9px;
+    font-size: 15px;
+    text-align: center;
+}
+
+.social-link {
+    display: flex;
+    gap: 18px;
+    text-decoration: none;
+    color: black;
+    font-family: Poppins;
+}
+
+.icon-info {
+    font-size: 14px;
+    display: flex;
+    gap: 20px;
+    margin-left: 0px;
+    font-family: Poppins;
+}
+
+.info-list-link {
+    text-decoration: none;
+    color: #21047c;
+}
+
+.info-list-link {
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.circle-tick-icon1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 30px;
+    color: #21047C;
+    margin: 15px 0;
+}
+
+
+.feature-info {
+    width: 607px;
+    font-size: 18px;
+    display: flex;
+    gap: 20px;
+}
+
+
+.icon-content {
+    display: flex;
+    gap: 23px;
+    padding-top: 12px;
+    padding: 10px 0;
+}
+
+.circle-tick-icon {
+    font-size: 30px;
+    color: #21047C;
+    display: flex;
+    align-items: center;
+    margin: 15px 0;
+}
+
+.icon-text {
+    display: flex;
+    gap: 22px;
+    padding-top: 17px;
+}
+
+.circle-tick-icon3 {
+    font-size: 30px;
+    color: #21047c;
+    display: flex;
+    align-items: center;
+    margin: 15px 0;
+}
+
+.circle-tick-icon4 {
+    font-size: 30px;
+    color: lightblue;
+    display: flex;
+    align-items: center;
+    margin: 15px 0;
+}
+
+.pink-tick-icon {
+    display: flex;
+    align-items: center;
+    font-size: 30px;
+    margin: 15px 0;
+}
+
+.icon-subtitle {
+    /* margin: 2px 3px; */
+    font-family: Poppins;
+    font-size: 15px;
+}
+
+
+.box {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    gap: 9px;
+}
+
+.box1 {
+    background-color: rgba(69, 175, 223, 0.10);
+    height: 150px;
+    width: 230px;
+    border-radius: 10px;
+    display: flex;
+    position: relative;
+    transition: 0.3s;
+}
+
+
+.box1 img {
+    position: absolute;
+    right: 20px;
+    top: 40px;
+    height: 80px;
+    width: 100px;
+}
+
+
+.box1 h6 {
+    font-family: Poppins;
+    padding: 20px;
+    align-items: end;
+    display: flex;
+    font-weight: 600;
+}
+
+.box2 {
+    background-color: rgba(235, 77, 162, 0.10);
+    height: 150px;
+    width: 230px;
+    border-radius: 10px;
+    display: flex;
+    position: relative;
+    transition: 0.3s;
+}
+
+.box2 img {
+    position: absolute;
+    right: 20px;
+    top: 40px;
+    height: 70px;
+    /* width: 100px; */
+}
+
+
+.box2 h6 {
+    font-family: Poppins;
+    padding: 20px;
+    align-items: end;
+    display: flex;
+}
+
+.box3 {
+    background-color: rgba(196, 106, 277, 0.10);
+    height: 150px;
+    width: 230px;
+    border-radius: 10px;
+    display: flex;
+    position: relative;
+    transition: 0.3s;
+    margin-top: 11px;
+}
+
+.box3 img {
+    position: absolute;
+    right: 20px;
+    top: 40px;
+    height: 70px;
+    width: 100px;
+}
+
+
+.box3 h6 {
+    font-family: Poppins;
+    padding: 20px;
+    align-items: end;
+    display: flex;
+}
+
+.box4 {
+    background-color: rgba(32, 187, 45, 0.10);
+    height: 150px;
+    width: 230px;
+    border-radius: 10px;
+    display: flex;
+    position: relative;
+    transition: 0.3s;
+    display: flex;
+    justify-content: center;
+    margin-top: 12px;
+}
+
+.box4 img {
+    position: absolute;
+    right: 20px;
+    top: 40px;
+    height: 70px;
+}
+
+
+

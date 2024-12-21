@@ -1,0 +1,1314 @@
+@media(min-width: 759px) and (max-width: 991px) {
+
+
+    .responsive .section-heading {
+        font-size: 15px;
+    }
+
+
+    .male-img {
+        left: -126px;
+    }
+
+    .responsive .nav-item {
+        text-align: left;
+    }
+
+    .icon-info {
+        font-size: 11px;
+        font-family: 'Poppins';
+    }
+
+    .logo-img {
+        width: 111px;
+    }
+
+    .hero-heading {
+        font-size: 24px;
+        font-family: Poppins;
+    }
+
+    .gethikma-info {
+        display: flex;
+        margin-top: 400px;
+        justify-content: center;
+        align-items: center;
+        gap: 12px;
+    }
+
+    .gethikma-info h1 {
+        color: #21047c;
+        font-family: 'Poppins';
+        font-weight: 700;
+        font-size: 28px
+    }
+
+    .hikma-title {
+        height: 39px;
+
+    }
+
+    .gethikma-info h1 {
+        font-family: Poppins;
+        margin-top: 10px;
+        font-size: 25px;
+        color: #21047c;
+        font-weight: 600;
+    }
+
+    .gethikma-para {
+        margin-left: 45px;
+        font-size: 13px;
+        font-family: Poppins;
+    }
+
+    .section {
+        padding: 50px 0;
+    }
+
+    .box7 {
+        width: 162px;
+    }
+
+    .box7 img {
+        position: relative;
+        left: 54px;
+
+    }
+
+    .form-message-img {
+        margin-top: 0;
+    }
+
+    .hikma-title {
+        width: 124px;
+        padding: 1px;
+    }
+
+    .light-blue-icon {
+        width: 20px;
+        height: 20px;
+
+    }
+
+    .teacher-content-info {
+        font-size: 10px;
+    }
+
+    .icon-text {
+        font-size: 11px;
+    }
+
+    .teacher-heading {
+        font-size: 18px;
+    }
+
+    .nav-brand .hikma-logo {
+        width: 230px;
+    }
+
+    .icon-content {
+        font-size: 8px;
+        font-family: Poppins;
+    }
+
+
+    .sign-up-heading {
+        font-size: 27px;
+        /* margin: 12px; */
+        margin: 0;
+    }
+
+    .sign-up-section p {
+        font-size: 10px;
+    }
+
+    button.btn.btn.btn-primary.email-button {
+        position: absolute;
+        left: 281px;
+        border-radius: 2px;
+        margin-top: -47px;
+        right: 0;
+        width: 62px;
+        height: 47px;
+    }
+
+    .input .sign-up-form {
+        width: 343px;
+        border-radius: 4px;
+        padding: 11px;
+        border-color: #21047c;
+    }
+
+    .sign-up .telegram-img {
+        height: 20px;
+    }
+
+    .input {
+        position: relative;
+    }
+
+    .logo-title {
+        font-size: 10px;
+        font-family: Poppins;
+        color: #000000;
+        padding-top: 5px;
+    }
+
+
+
+
+
+    .meeting-box1 {
+        height: 110px;
+        width: 150px;
+    }
+
+
+    .meeting-box1 img {
+        right: 15px;
+        top: 35px;
+        height: 60px;
+        width: 70px;
+    }
+
+    .meeting-box1 h6 {
+        font-size: 12px;
+    }
+
+
+    .meeting-box2 {
+        height: 100px;
+        width: 150px;
+        top: 130px;
+    }
+
+    .meeting-box2 img {
+        right: 15px;
+        top: 35px;
+        height: 60px;
+        width: 70px;
+    }
+
+    .meeting-box2 h6 {
+        font-size: 12px;
+    }
+
+}
+
+
+
+
+/* For Mobile Device */
+
+@media only screen and (min-width: 320px) and (max-width: 768px) {
+
+
+
+    .responsive .teacher-app .container .row {
+        display: flex;
+        flex-direction: column-reverse;
+    }
+
+    .value-box1 p {
+        font-size: 18px;
+    }
+
+
+    .responsive .student-content {
+        display: flex;
+        flex-direction: column-reverse;
+    }
+
+
+
+
+    .teacher-app .container .row {
+        display: flex;
+        flex-direction: column;
+    }
+
+
+    .responsive .mobile-img {
+        width: 100%;
+        padding-top: 1px;
+        /* margin: 0; */
+        height: 350px;
+        object-fit: contain;
+
+    }
+
+    .news-img {
+        margin-top: 12px;
+    }
+
+    .teacher-app-img {
+        width: 100%;
+        object-fit: contain;
+        margin: 0;
+    }
+
+    .hero-heading {
+        font-size: 20px;
+        font-family: Poppins;
+
+    }
+
+    .logo-img {
+        width: 112px;
+    }
+
+    .teacher-heading {
+        font-size: 20px;
+    }
+
+
+
+    .download-button {
+        margin-left: 0;
+        padding-top: 10px;
+    }
+
+
+
+    .mobile-img {
+        width: 100%;
+        /* height: 350px; */
+        object-fit: contain;
+        /* margin: 0; */
+    }
+
+    .box4 {
+        height: 130px;
+        width: 135px;
+    }
+
+    .box4 img {
+        right: 15px;
+        top: 35px;
+        height: 60px;
+        width: 70px;
+    }
+
+    .meeting-box1 {
+        height: 137px;
+        width: 147px;
+        /* margin-left: 12px; */
+        margin-left: 0;
+    }
+
+    .meeting-box2 {
+        width: 154px;
+        height: 131px;
+        top: 6px;
+        margin-top: 0;
+        margin-left: 0;
+    }
+
+    .meeting-boxes {
+        margin-top: 30px;
+    }
+
+
+    .meeting-box1 img {
+        right: 15px;
+        top: 35px;
+        height: 60px;
+        width: 70px;
+    }
+
+
+    .boxes {
+        display: flex;
+        /* flex-wrap: ; */
+    }
+
+
+    .value-card {
+        margin: 9px;
+    }
+
+    .box3 {
+
+        height: 122px;
+        width: 159px;
+        margin: 12px;
+        top: 9px;
+        position: relative;
+    }
+
+    .purpale-img1 {
+        display: none;
+    }
+
+    .purpale-img2 {
+        display: none;
+    }
+
+
+    .circle-img {
+        display: none;
+    }
+
+    .sign-input {
+        height: 50px;
+        width: 332px;
+    }
+
+
+    .responsive .schedule-box {
+        background-color: rgba(69, 175, 223, 0.10);
+        border-radius: 11px;
+        position: relative;
+        margin-top: 11px;
+        top: 14px;
+        height: 130px;
+        display: flex;
+        align-items: end;
+    }
+
+
+    .box1 img {
+        position: absolute;
+        right: 20px;
+        top: 40px;
+        height: 80px;
+        width: 100px;
+    }
+
+    .box1 h6 {
+        font-family: poppins;
+        padding: 20px;
+        align-items: end;
+        display: flex;
+    }
+
+    .responsive .discover-info {
+        font-size: 15px;
+        margin: -35px 0 0 0;
+        font-family: Poppins;
+        font-weight: 400;
+    }
+
+   
+
+    .sub-footer {
+        padding: 0;
+    }
+
+    .world-class-education {
+        padding: 25px 0;
+    }
+
+    .navbar .navbar-brand .hikma-logo {
+        width: 155px;
+        height: 35px;
+        object-fit: fill;
+    }
+
+    .male-img {
+        left: -120px;
+        object-fit: contain;
+        height: auto;
+        width: 300px;
+        margin: 0;
+    }
+
+    .hikma-circle {
+        top: -308px;
+        width: 121px;
+        left: 26px;
+
+    }
+
+    .world-class-education .image-section .world-book-img {
+        width: 100%;
+        min-width: 200px;
+        max-width: 400px;
+    }
+
+
+    .world-class-education .world-class-content h1 {
+        font-size: 24px;
+    }
+
+
+
+    .apple-store-img {
+        width: 120px;
+        height: 48px;
+        object-fit: contain;
+    }
+
+
+
+    .google-button-img {
+        width: 128px;
+        height: 49px;
+        object-fit: contain;
+    }
+
+
+
+    .icon-subtitle {
+        font-size: 13px;
+        font-family: Poppins;
+        font-weight: 400;
+    }
+
+    .Start-learning-subtitle {
+        font-size: 14px;
+
+    }
+
+    .header-section-container .world-class-content {
+        margin-bottom: 50px;
+    }
+
+    .nav-item {
+        text-align: left;
+    }
+
+    .teacher-heading {
+        padding-top: 0;
+    }
+
+    .sign-up-heading {
+        font-size: 25px;
+    }
+
+
+    .female-img {
+        right: 0;
+        object-fit: contain;
+        height: auto;
+        width: 160px;
+        margin: 0;
+
+    }
+
+    .student-section {
+        padding-top: 13px;
+    }
+
+    .world-class-education .container .world-class-content .section1-btn {
+        height: 40px;
+        min-width: 150px;
+        font-size: 16px;
+
+    }
+
+    .schedule-box {
+        height: 134px;
+        width: 138px;
+    }
+
+    .schedule-box-img {
+        right: 15px;
+        top: 35px;
+        height: 60px;
+        width: 70px;
+    }
+
+    .box1 {
+        height: 130px;
+        width: 135px;
+    }
+
+    .box1 img {
+        right: 15px;
+        top: 35px;
+        height: 60px;
+        width: 70px;
+    }
+
+    .box1 h6 {
+        font-size: 12px;
+    }
+
+    .misson-section {
+        background-image: none;
+        height: 127px;
+    }
+
+    .world-class-education .container .world-class-content p {
+        font-size: 16px;
+    }
+
+
+    .academic-title {
+        font-size: 24px;
+    }
+
+    .meeting-info h1 {
+        font-size: 20px;
+    }
+
+    .meeting-info p {
+        font-size: 13px;
+    }
+
+    .meeting-box2 h6 {
+        font-size: 12px;
+    }
+
+    .margin-right-50 {
+        margin-right: 0;
+        margin-bottom: 50px;
+    }
+
+    .meeting-box1 h6 {
+        font-size: 13px;
+    }
+
+    .box {
+        margin: 0 0 15px;
+    }
+
+    .top-767-magin {
+        margin-top: 70px;
+    }
+
+    .section7 {
+        display: flex;
+        gap: 16px;
+        justify-content: center;
+    }
+
+    .meeting-box2 img {
+        right: 15px;
+        top: 35px;
+        height: 60px;
+        width: 81px;
+    }
+
+
+    .teacher-text {
+        font-size: 14px;
+    }
+
+    .circle-tick-icon3 {
+
+        font-size: 26px;
+    }
+
+    .circle-tick-icon4 {
+        font-size: 26px;
+    }
+
+    .pink-tick-icon {
+        font-size: 26px;
+    }
+
+    .circle-tick-icon {
+        font-size: 26px;
+    }
+
+    .light-blue-icon {
+        font-size: 26px;
+    }
+
+    .teacher-img {
+        display: none;
+    }
+
+
+    .sign-up-heading {
+        margin-top: 45px;
+    }
+
+    .section-padding {
+        padding-block: 1px !important;
+    }
+
+    .value-box1 {
+        width: 100%;
+        padding: 25px 30px;
+        margin: 10px 0;
+    }
+
+   
+    .mission-section {
+        height: 129px;
+        background-image: navajowhite;
+        background-image: none;
+    }
+
+    .mission-text {
+        font-size: 16px;
+    }
+
+    .sub-footer .links {
+        padding: 0;
+        margin: 0;
+    }
+
+    .schedule-classes {
+        padding-block: 16px;
+    }
+
+    .box-heading {
+        font-size: 25px;
+        /* margin-top: 50px; */
+        font-weight: 700;
+    }
+
+    .Section2-paragraph {
+        font-family: Poppins;
+        font-size: 16px;
+        padding-top: 10px;
+        text-align: left;
+    }
+
+
+    .Section2-right-side-image {
+        position: relative;
+        padding: 0;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .schedule-box h3 {
+        font-size: 12px;
+    }
+
+    .meeting-circle {
+        display: none;
+    }
+
+    .footer-img {
+        width: 211px;
+        height: 47px;
+        object-fit: fill;
+    }
+
+    .hikma-title {
+        height: 45px;
+    }
+
+    .whats-is-container section {
+        padding: 50px 0;
+
+    }
+
+
+    .schedule-img {
+        display: none;
+    }
+
+    .circle-img7 {
+        display: none;
+    }
+
+    .form-img {
+        display: none;
+    }
+
+    .links h3 {
+        margin-bottom: 10px;
+    }
+
+
+    .responsive .boxes {
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .section-padding-100 {
+        padding-block: 100px;
+    }
+
+    .box4 img {
+        position: absolute;
+        height: 59px;
+        right: 15px;
+        width: 66px;
+        padding: 2px;
+    }
+
+    .box3 img {
+        position: absolute;
+        right: 14px;
+        top: 18px;
+        height: 68px;
+        width: 73px;
+        padding: 6px;
+    }
+
+
+
+    .responsive .boxes {
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+
+    .responsive .circle-img {
+        position: relative;
+        margin-top: -593px;
+        width: 145px;
+    }
+
+    .responsive .sign-up-heading {
+        margin-top: 0;
+    }
+
+    .sub-footer {
+        display: flex;
+        align-items: center;
+    }
+
+    .box {
+        gap: 20px;
+    }
+
+
+    .div_margin_top {
+        margin: 100px auto 0;
+    }
+
+    .Section2-right-side-image .squre {
+        width: 300px;
+        height: 350px;
+        margin-top: 31px;
+    }
+
+    .Section2-right-side-image .circle-image {
+        right: 0;
+        top: -100px;
+        height: 150px;
+        width: 150px;
+    }
+
+    .Section2-right-side-image .male-image {
+        left: -120px;
+        object-fit: contain;
+        height: auto;
+        width: 300px;
+        margin: 0;
+    }
+
+    .Section2-right-side-image .female-image {
+        right: 0;
+        object-fit: contain;
+        height: auto;
+        width: 160px;
+        margin: 0;
+    }
+
+    .responsive .gethikma {
+        margin-top: -44px;
+    }
+
+    .gethikma .small-circle {
+        height: 60px;
+        width: 60px;
+        margin-top: 30px;
+        margin-left: 0;
+    }
+
+    .gethikma h1 {
+        /* margin-top: 50px; */
+        font-size: 25px;
+        /*margin-left: 20px;*/
+    }
+
+    .gethikma .hikma-logo {
+        height: 45px;
+        width: 145px;
+    }
+
+    .gethikma p {
+        margin-left: 0;
+    }
+
+    .gethikma a {
+        margin-left: 0;
+    }
+
+
+    .world-class-content {
+        margin-bottom: 50px;
+    }
+
+    .world-section-container {
+        padding: 50px 0;
+    }
+
+
+    .top-767-magin {
+        margin-top: 70px;
+    }
+
+    .meeting-box1 {
+        height: 130px;
+        width: 135px;
+    }
+
+    .meeting-box1 img {
+        right: 15px;
+        top: 35px;
+        height: 60px;
+        width: 70px;
+    }
+
+    .meeting-box1 h6 {
+        font-size: 12px;
+    }
+
+    .meeting-box2 {
+        height: 130px;
+        width: 135px;
+        top: 0;
+    }
+
+    .meeting-box2 img {
+        right: 15px;
+        top: 35px;
+        height: 60px;
+        width: 70px;
+    }
+
+
+    .meeting-box2 h6 {
+        font-size: 12px;
+    }
+
+    .massage-image {
+        display: none;
+    }
+
+    .massage-image1 {
+        display: none;
+    }
+
+    .massage-image2 {
+        display: none;
+    }
+
+    .massage-image3 {
+        display: none;
+    }
+
+
+    .hikma-text-logo {
+        width: 155px;
+        object-fit: fill;
+    }
+
+    .value-box {
+        margin: 0;
+    }
+
+    .section .meeting-title {
+        font-size: 26px;
+        font-family: Poppins;
+        font-weight: 700;
+        color: #21047c;
+    }
+
+    .section .meeting-subtitle {
+        font-family: Poppins;
+        font-size: 14px;
+    }
+
+    .sub-footer .links {
+        margin-top: 25px;
+    }
+
+    .social-links {
+        padding: 0;
+        font-family: Poppins;
+        margin-top: 25px;
+    }
+
+    .social-links h3 {
+        font-family: Poppins;
+        font-weight: 700;
+        color: #21047c;
+        font-size: 18px;
+    }
+
+    /* .sub-footer .sub-footer-column {
+        margin-top: 78px;
+    } */
+
+
+    .social-links h3 {
+        margin-bottom: 19px;
+    }
+
+    .circle {
+        margin: 11px 0;
+    }
+
+    .start-circle {
+        width: 40px;
+        height: 41px;
+        top: 31px;
+        left: -10px;
+    }
+
+    .footer-text {
+        font-size: 11px;
+    }
+
+
+    .header-with-section {
+        height: 480px;
+        width: 100%;
+    }
+
+
+    .section {
+        padding-block: 30px;
+    }
+
+    .mission-title {
+        font-size: 25px;
+        font-weight: 700;
+    }
+
+    .form-heading {
+        font-size: 25px;
+    }
+
+    .input-btn {
+        width: 71px;
+    }
+
+    .button-last {
+        width: 191px;
+        border-radius: 5px;
+        margin-left: 3px;
+        height: 48px;
+    }
+
+    .button-last a {
+        font-size: 19px;
+    }
+
+
+    .schedule-heading {
+        font-size: 24px;
+    }
+
+    .form-message-img {
+        margin-top: -50px;
+    }
+
+    .teacher-app-content{
+        margin-top: 0;
+    }
+}
+
+
+@media (min-width: 769px) and (max-width: 991px) {
+    .world-class-education .image-section .world-book-img {
+        width: 100%;
+        min-width: 200px;
+        max-width: 400px;
+    }
+
+    .world-class-education .container .world-class-content p {
+        font-size: 16px;
+    }
+
+    .responsive .section-heading {
+        font-size: 24px;
+    }
+
+    .Section2-right-side-image .squre {
+        width: 100%;
+        height: 350px;
+        max-width: 300px;
+    }
+
+    .world-class-education {
+        padding: 56px 35px;
+    }
+
+    .male-img {
+        left: -120px;
+        width: 300px;
+        height: auto;
+        margin: 0;
+        object-fit: contain
+    }
+
+    .female-img {
+        width: 160px;
+        height: auto;
+    }
+
+    .gethikma {
+        margin-top: 295px;
+    }
+
+    .hikma-circle {
+        left: 193px;
+        width: 150px;
+        height: 150px;
+        margin-top: 152px;
+    }
+
+    .misson-section {
+        background-image: url(images//our-misssion\ bg.png);
+        background-size: contain;
+        background-repeat: no-repeat;
+        background-position: center;
+    }
+
+    .mobile-img {
+        width: 100%;
+        height: 375px;
+    }
+
+    .schedule-box {
+        width: 171px;
+        height: 130px;
+    }
+
+    .schedule-box img {
+        width: 70px;
+        height: 60px;
+        top: 35px;
+    }
+
+    .box1 {
+        width: 150px;
+        height: 130px;
+    }
+
+    .box1 h6 {
+        font-size: 12px;
+    }
+
+    .box1 img {
+        width: 70px;
+        height: 60px;
+    }
+
+    .academic-title {
+        font-size: 23px;
+    }
+
+    .meeting-box2 {
+        top: 0;
+    }
+
+    .section .meeting-title {
+        font-size: 24px;
+    }
+
+    .value-box1 {
+        width: 100%;
+        padding: 25px 30px;
+        margin: 10px 0;
+        transition: 0.3s;
+
+    }
+
+    .value-box {
+        margin-top: 40px;
+    }
+
+    .logo-title {
+        font-size: 16px;
+    }
+
+    .social-links h3 {
+        font-weight: 600;
+        color: #21047c;
+        font-family: Poppins;
+        font-size: 18px;
+    }
+
+    .news-img {
+        width: 100%;
+    }
+
+    .academic-boxes {
+        display: flex;
+        justify-content: center;
+    }
+
+    .apple-store-img {
+        height: 50px;
+        width: 120px;
+    }
+
+    .google-button-img {
+        height: 50px;
+        width: 120px;
+    }
+
+    .teacher-heading {
+        margin: 18px 0;
+        font-size: 26px;
+    }
+
+    .teacher-img {
+        left: 21px;
+        width: 55px;
+    }
+
+    .form-heading {
+        font-size: 24px;
+        margin-left: 0;
+    }
+
+    .hero-heading {
+        font-size: 21px;
+    }
+
+    .circle-tick-icon {
+        font-size: 26px;
+    }
+
+    .circle-tick-icon3 {
+        font-size: 26px;
+    }
+
+    .light-blue-icon {
+        font-size: 26px;
+    }
+
+    .pink-tick-icon {
+        font-size: 26px;
+    }
+
+    .circle-tick-icon4 {
+        font-size: 26px;
+    }
+
+    .icon-subtitle {
+        font-size: 14px;
+    }
+
+    .world-class-education .container .world-class-content .section1-btn {
+        height: 42px;
+        min-width: 153px;
+        font-size: 16px;
+    }
+
+    .header-with-section {
+        min-width: 740px;
+        height: 640px;
+        width: 100%;
+    }
+
+    .academic-boxes {
+        display: flex;
+        gap: 9px;
+    }
+
+    .button-last {
+        width: 190px;
+        height: 50px;
+        border-radius: 7px;
+    }
+
+    .box-heading {
+        font-size: 27px;
+        font-weight: 700;
+    }
+
+}
+
+
+
+
+
+
+@media (min-width: 992px) and (max-width: 1200px) {
+    .Section2-right-side-image .squre {
+        width: 438px;
+    }
+
+    .meeting-box2 {
+        bottom: 95px;
+    }
+
+    .box1 {
+        width: 200px;
+        height: 150px;
+    }
+
+    .box1 img {
+        width: 70px;
+        height: 80px;
+    }
+
+    .value-box1 {
+        width: 280px;
+    }
+
+    .footer-img {
+        width: 202px;
+    }
+
+    .mission-text {
+        font-size: 25px;
+    }
+
+    .hikma-circle {
+        left: 283px;
+        width: 188px;
+    }
+
+    .section-heading {
+        font-size: 29px;
+    }
+
+    .world-class-education .image-section .world-book-img {
+        margin: 12px 10px;
+    }
+
+    .world-class-education {
+        padding: 150px 15px;
+    }
+
+    .start-circle {
+        top: 99px;
+        width: 70px;
+        height: 69px;
+        left: -24px;
+    }
+
+    .button-last {
+        margin-left: 0;
+    }
+
+    .logo-title {
+        font-size: 16px;
+    }
+
+    .social-links h3 {
+        font-family: Poppins;
+        font-weight: 700;
+        font-size: 16px;
+        color: #21047c;
+    }
+
+    .mobile-img {
+        width: 355px;
+    }
+
+    .purpale-img1 {
+        top: 169px;
+    }
+
+    .purpale-img2 {
+        left: 27px;
+    }
+
+    .hero-heading {
+        font-size: 27px;
+    }
+
+    .teacher-heading {
+        font-size: 27px;
+    }
+}
